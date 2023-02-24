@@ -1,0 +1,9 @@
+{
+  "install": "echo 'We Are Ready!'",
+  "start": "./httpd",
+  "watch": {
+    "ignore": [
+      "logs"
+    ]
+  }
+}
